@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Home-Page</title>
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<!-- Optional theme -->
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css" >
+	<!-- My Style Sheet -->
+	<link rel="stylesheet" type="text/css" href="carousel.css">
+	<link rel="stylesheet" type="text/css" href="css/color.css">
+
+</head>
+<body>
+	<!-- Jquery Complied and minified -->
+	<script src="js/jquery.min.js"></script>
+
+	<!-- Latest compiled and minified JavaScript -->
+	<script src="js/bootstrap.min.js"></script>
+
+</body>
+</html>	

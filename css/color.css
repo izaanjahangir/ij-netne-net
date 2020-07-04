@@ -1,0 +1,36 @@
+.light-red{
+	background-color: #F24A76;
+	color : #E9DEE1;
+}
+#header h1{
+	font-weight: bold;
+}
+.bg-orange{
+	color:black;
+	background-color: orange;
+}
+.bg-grey{
+	background-color: #E1DDE1;
+	color : black;
+	border: 2px solid orange;
+}
+.side-info{
+	background-color: #CCF;
+	font-weight: bold;
+	text-align : center;
+}
+.bold{
+	font-weight: bold;
+}
+.bg-green{
+	background-color: #26E621;
+}
+.bg-green-border{
+	background-color: #E1DDE1;
+	color : black;
+	border: 2px solid #26E621;
+}
+.black{
+	color : black;
+	font-weight: bold;
+}
